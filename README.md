@@ -31,13 +31,13 @@
 </tr>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=js,vue,vue,nextjs,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,vue,react,nextjs,html,css,tailwind" />
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=laravel,php,python,cs,dotnet,nodejs,mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=laravel,php,python,cs,dotnet,nodejs,mysql,postgres,bash,nginx" />
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,git,redis,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=aws,docker,npm,gitlab,git,redis,linux,ubuntu,vscode,postman" />
 </td>
 </tr>
 </table>
