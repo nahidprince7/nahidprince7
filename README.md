@@ -2,7 +2,7 @@
 
 # Hi, I'm Nahid 👋
 
-### Full Stack Developer · Laravel · React · Vue · Next.js · Python · C#
+### Full Stack Engineer · Laravel · AWS - React · Vue · Next.js · Python · C#
 
 <img src="https://komarev.com/ghpvc/?username=nahidprince7&color=blueviolet&style=flat-square&label=Profile+Views" />
 &nbsp;
@@ -37,7 +37,7 @@
 <img src="https://skillicons.dev/icons?i=laravel,php,python,cs,dotnet,nodejs,mysql,postgres,mongodb" />
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=aws,docke,git,redis,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,redis,linux,vscode,postman" />
 </td>
 </tr>
 </table>
