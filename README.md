@@ -2,7 +2,7 @@
 
 # Hi, I'm Nahid 👋
 
-### Full Stack Engineer · Laravel · AWS - React · Vue · Next.js · Python · C#
+### Full Stack Engineer · Laravel · AWS · AI · React · Vue · Next.js · Python · C# · Calude
 
 <img src="https://komarev.com/ghpvc/?username=nahidprince7&color=blueviolet&style=flat-square&label=Profile+Views" />
 &nbsp;
