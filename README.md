@@ -15,7 +15,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 
-<td width="50%" align="center">
+<td width="100%" align="center">
    <img height="180em" src="https://streak-stats.demolab.com?user=nahidprince7&theme=tokyonight&hide_border=true" />
 </td>
 </tr>
