@@ -16,7 +16,7 @@
 <tr>
 
 <td width="100%" align="center">
-   <img height="180em" src="https://streak-stats.demolab.com?user=nahidprince7&theme=tokyonight&hide_border=true" />
+   <img height="" src="https://streak-stats.demolab.com?user=nahidprince7&theme=tokyonight&hide_border=true" />
 </td>
 </tr>
 </table>
