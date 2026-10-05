@@ -13,12 +13,9 @@
 </div>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-
-<td width="100%" align="center">
-   <img height="" src="https://streak-stats.demolab.com?user=nahidprince7&theme=tokyonight&hide_border=true" />
-</td>
-</tr>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nahidprince7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 </table>
 
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
